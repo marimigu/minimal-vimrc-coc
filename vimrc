@@ -49,7 +49,6 @@ call plug#end()
 " --- Konfiguracja Coc.nvim ---
 let g:coc_global_extensions = [
       \ 'coc-pyright',
-      \ '@yaegassy/coc-intelephense',
       \ 'coc-tsserver',
       \ 'coc-html',
       \ 'coc-css',
