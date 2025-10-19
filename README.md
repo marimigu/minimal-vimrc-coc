@@ -27,16 +27,7 @@ W vimie uruchom
 ```bash
 :PlugInstall
 ```
-Instalacja obsługi języków 
-
-
-Instalacja krok po kroku (gdy już masz ten .vimrc)
-
-1. Uruchom Vima i wpisz:
-```bash
-:PlugInstall
-```
-2. Poczekaj aż coc.nvim i yaegassy/coc-intelephense się zainstalują.
+2. Poczekaj aż wtyczki się zainstalują.
 
 3. Jeśli masz błąd z yarn, doinstaluj yarn: 
 
