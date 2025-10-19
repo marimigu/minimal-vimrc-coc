@@ -4,6 +4,7 @@
 *.bak
 *.tmp
 *~
+*.backup
 
 # Historia NERDTree, netrw itp.
 .netrwhist
